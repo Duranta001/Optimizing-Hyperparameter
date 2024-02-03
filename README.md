@@ -1,1 +1,1 @@
-# Optimizing-Hyperparameter
+In this project, I performed a optimization technique to find the best hyperparameter for some machine learning technique for a specific dataset. For this i used GridSearchCV method from scikit-learn module. I used a CSV dataset as training and validation data. I also performed feature selection which is also a part of feature engineering. Optimizing Hyper parameter.ipynb file is the main code file and data2.csv is the dataset.
